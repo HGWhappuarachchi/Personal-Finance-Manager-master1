@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889360722986",
+    "project_id": "financeapp-8bfea",
+    "storage_bucket": "financeapp-8bfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889360722986:android:4b4e9186d643dc02d9e753",
+        "android_client_info": {
+          "package_name": "com.example.ncafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSSOjsJUNyjckyAmXYHosMbdkTkQ3NsGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
